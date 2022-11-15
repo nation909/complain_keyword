@@ -1,0 +1,21 @@
+2022-11-15 17:38:23 14500|MainThread| INFO|        _internal.py:225 -  * Detected change in 'C:\\dev\\python-workspace\\complain_keyword\\main.py', reloading
+2022-11-15 17:38:23 14540|MainThread| INFO|        _internal.py:225 -  * Restarting with stat
+2022-11-15 17:38:23  9588|MainThread| INFO|             main.py:79  - complain keyword module start version: v1.0.0
+2022-11-15 17:38:23  9588|MainThread|WARNI|        _internal.py:225 -  * Debugger is active!
+2022-11-15 17:38:23  9588|MainThread| INFO|        _internal.py:225 -  * Debugger PIN: 314-852-146
+2022-11-15 17:38:25  4972|MainThread| INFO|             main.py:79  - complain keyword module start version: v1.0.0
+2022-11-15 17:38:25  4972|MainThread| INFO|        _internal.py:225 -  * Restarting with stat
+2022-11-15 17:38:26 13640|MainThread| INFO|             main.py:79  - complain keyword module start version: v1.0.0
+2022-11-15 17:38:26 13640|MainThread|WARNI|        _internal.py:225 -  * Debugger is active!
+2022-11-15 17:38:26 13640|MainThread| INFO|        _internal.py:225 -  * Debugger PIN: 314-852-146
+2022-11-15 17:38:26 13640|  Thread-1|WARNI|        _internal.py:225 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-11-15 17:38:26 13640|  Thread-1| INFO|        _internal.py:225 -  * Running on http://10.122.155.62:9999/ (Press CTRL+C to quit)
+2022-11-15 17:40:36 13640|MainThread| INFO|        _internal.py:225 -  * Detected change in 'C:\\dev\\python-workspace\\complain_keyword\\test.py', reloading
+2022-11-15 17:40:36  4972|MainThread| INFO|        _internal.py:225 -  * Restarting with stat
+2022-11-15 17:40:36  7616|MainThread| INFO|             main.py:79  - complain keyword module start version: v1.0.0
+2022-11-15 17:40:36  7616|MainThread|WARNI|        _internal.py:225 -  * Debugger is active!
+2022-11-15 17:40:36  7616|MainThread| INFO|        _internal.py:225 -  * Debugger PIN: 314-852-146
+2022-11-15 17:40:37  7616|  Thread-1|WARNI|        _internal.py:225 -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2022-11-15 17:40:37  7616|  Thread-1| INFO|        _internal.py:225 -  * Running on http://10.122.155.62:9999/ (Press CTRL+C to quit)
